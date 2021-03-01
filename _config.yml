@@ -97,7 +97,7 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **fisher**."
-  location         : "Somewhere"
+  location         : "Deep Learning Ocean"
   email            :
   links:
     - label: "Email"
